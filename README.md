@@ -38,5 +38,4 @@ If the input matches a known pattern, it responds accordingly; otherwise, it giv
 
 ---
 
-## 📸 Sample Output
 
